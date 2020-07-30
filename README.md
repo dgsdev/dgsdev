@@ -6,6 +6,10 @@ In my free time, I enjoy studying the Bible (📓), spending time with my family
 
 Would you like to find me? 🚀🚀🚀
 
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DouglasPinheiroDgs/)](https://www.youtube.com/c/DouglasPinheiroDgs/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dgspinheiro)](https://twitter.com/Dgspinheiro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgsdev/)](https://www.linkedin.com/in/dgsdev/)
+
 
 
 
