@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dgspramos@gmail.com-0099cc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dgspramos@gmail.com)]
 (mailto:dgspramos@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DouglasPinheiroDgs/)](https://www.youtube.com/c/DouglasPinheiroDgs/)
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 
 ### Hi there 👋
