@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgsdev/)](https://www.linkedin.com/in/dgsdev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dgspinheiro)](https://twitter.com/Dgspinheiro)
 [![Gmail Badge](https://img.shields.io/badge/-dgspramos@gmail.com-0099cc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dgspramos@gmail.com)](mailto:dgspramos@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-0099cc?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=red&link=https://www.youtube.com/c/DouglasPinheiroDgs/)](https://www.youtube.com/c/DouglasPinheiroDgs/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-0099cc?style=flat-square&labelColor=0099cc&logo=youtube&logoColor=red&link=https://www.youtube.com/c/DouglasPinheiroDgs/)](https://www.youtube.com/c/DouglasPinheiroDgs/)
 
 
 
