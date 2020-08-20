@@ -1,9 +1,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgsdev/)](https://www.linkedin.com/in/dgsdev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dgspinheiro)](https://twitter.com/Dgspinheiro)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=White&link=https://www.instagram.com/douglaspramos/)](https://www.instagram.com/douglaspramos/) 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DouglasPinheiroDgs/)](https://www.youtube.com/c/DouglasPinheiroDgs/)
 [![Gmail Badge](https://img.shields.io/badge/-dgspramos@gmail.com-0099cc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dgspramos@gmail.com)]
 (mailto:dgspramos@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DouglasPinheiroDgs/)](https://www.youtube.com/c/DouglasPinheiroDgs/)
+
 
 ### Hi there 👋
 
