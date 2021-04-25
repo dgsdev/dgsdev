@@ -5,7 +5,7 @@
 
 ### Hi there 👋🏼
 
-My name is Douglas Pinheiro, from Brazil (🇧🇷). Study Full Stack and mobile development. I seek an opportunity to learn and work on these technologies. I am passionate about projects like Linux, so I always install a new distro! My goal is to work with Full Stack and Mobile and support my wife and daughter doing what I love about technology.💙
+My name is Douglas Pinheiro, from Brazil (🇧🇷). I study Full Stack and mobile development. I always look for opportunities to learn and work with these technologies. I am passionate about projects like Linux, so I always install a new distro! My goal is to work with Full Stack and Mobile Development and support my wife and daughter doing what I love about technology.💙
 
 Feel free to get in touch! 🚀
 
