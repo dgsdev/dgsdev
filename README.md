@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgsdev/)](https://www.linkedin.com/in/dgsdev/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dgsdeveloper)](https://twitter.com/Dgspinheiro)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dgsdeveloper)](https://twitter.com/dgsdeveloper)
 [![Gmail Badge](https://img.shields.io/badge/-dgspramos@gmail.com-0099cc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dgspramos@gmail.com)](mailto:dgspramos@gmail.com)
 
 
