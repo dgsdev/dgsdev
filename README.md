@@ -10,7 +10,7 @@ My name is Douglas Pinheiro, from Brazil (🇧🇷). I study Full Stack and mobi
 Feel free to get in touch! 🚀
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dgsdev&show_icons=true&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dgsdev&show_icons=true&theme=react" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsdev&hide=java,objective-c,c,python&layout=compact&theme=react"/>
 </div>
 
